@@ -1,0 +1,10 @@
+.home{
+    position: fixed;
+    margin-top: 82px;
+}
+
+.texte{
+    position: relative;
+   background-color: white;
+   top: 506px;
+}
