@@ -1,0 +1,23 @@
+.menu{
+    display: inline-flex; 
+        font-family: Roboto, Arial, sans-serif;
+        font-size: 13pt;
+        padding-left: 29%;
+        margin-bottom: 2%;
+        position: absolute;
+        background-color: pink;
+        width: 100%;
+        z-index: 1000;
+        height: 49px;
+
+}
+
+.menu1{
+    display: none;
+}
+
+.menu1{
+    position: absolute;
+}
+
+.menu01:hover .menu1{ display: inline;}
